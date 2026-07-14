@@ -1,3 +1,4 @@
+# Importing all the libraries for the dataset and model
 from roboflow import Roboflow
 from ultralytics import YOLO
 import os
@@ -5,6 +6,10 @@ from dotenv import load_dotenv
 from collections import Counter
 
 def training_model():
+    """
+    Training the model using the dataset found on Roboflow. This is the link to the dataset: https://universe.roboflow.com/computer-vision-group-ji0bm/group_work
+    """
+    
     load_dotenv(dotenv_path="/Users/Internet/Documents/Coding/FridgeSense/.env")
     rf_api = os.getenv("ROBOFLOW_API_KEY")
 
@@ -39,6 +44,9 @@ load_model()
 results = predict_image("/Users/Internet/Desktop/Coding/FridgeSense/download.jpeg")
 
 def ingredients(results):
+    """
+    From the results that were predicted using the model, it will count the occurrences of each ingredient detected and return the ingredients for future use.
+    """
     foods = []
     for r in results:
         labels = r.names
