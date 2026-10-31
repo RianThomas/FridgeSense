@@ -1,0 +1,485 @@
+food,fridge_days,pantry_days,freezer_days
+apple,30.0,7.0,180.0
+gala apple,30.0,7.0,180.0
+fuji apple,30.0,7.0,180.0
+granny smith apple,30.0,7.0,180.0
+honeycrisp apple,30.0,7.0,180.0
+red delicious apple,30.0,7.0,180.0
+banana,7.0,5.0,90.0
+plantain,7.0,5.0,90.0
+orange,21.0,7.0,300.0
+navel orange,21.0,7.0,300.0
+blood orange,21.0,7.0,300.0
+mandarin orange,14.0,7.0,300.0
+clementine,14.0,7.0,300.0
+tangerine,14.0,7.0,300.0
+grapefruit,21.0,7.0,300.0
+lemon,30.0,14.0,120.0
+lime,30.0,14.0,120.0
+key lime,21.0,10.0,120.0
+green grapes,10.0,,300.0
+red grapes,10.0,,300.0
+black grapes,10.0,,300.0
+blueberries,7.0,,300.0
+strawberries,5.0,,300.0
+raspberries,3.0,,300.0
+blackberries,3.0,,300.0
+cranberries,30.0,,365.0
+boysenberries,3.0,,300.0
+gooseberries,14.0,,300.0
+watermelon,14.0,7.0,300.0
+cantaloupe,10.0,5.0,300.0
+honeydew melon,10.0,5.0,300.0
+peach,5.0,3.0,300.0
+plum,5.0,3.0,300.0
+nectarine,5.0,3.0,300.0
+apricot,5.0,3.0,300.0
+sweet cherry,7.0,2.0,300.0
+sour cherry,5.0,2.0,300.0
+mango,7.0,5.0,300.0
+pineapple,5.0,3.0,180.0
+kiwi,14.0,7.0,300.0
+papaya,7.0,3.0,300.0
+pomegranate,60.0,14.0,300.0
+avocado,5.0,4.0,180.0
+bartlett pear,7.0,4.0,300.0
+anjou pear,7.0,4.0,300.0
+bosc pear,7.0,4.0,300.0
+asian pear,30.0,7.0,300.0
+fig,3.0,1.0,300.0
+fresh date,30.0,14.0,365.0
+passion fruit,14.0,7.0,240.0
+dragon fruit,7.0,3.0,240.0
+lychee,7.0,3.0,180.0
+guava,4.0,2.0,240.0
+starfruit,14.0,4.0,240.0
+persimmon,21.0,7.0,300.0
+kumquat,14.0,4.0,180.0
+spinach,5.0,,300.0
+baby spinach,5.0,,300.0
+kale,7.0,,300.0
+arugula,5.0,,
+swiss chard,5.0,,300.0
+collard greens,7.0,,300.0
+mustard greens,5.0,,300.0
+iceberg lettuce,10.0,,
+romaine lettuce,7.0,,
+butterhead lettuce,5.0,,
+green cabbage,21.0,,300.0
+red cabbage,21.0,,300.0
+napa cabbage,14.0,,300.0
+bok choy,5.0,,300.0
+broccoli,5.0,,300.0
+broccolini,5.0,,300.0
+cauliflower,7.0,,300.0
+brussels sprouts,7.0,,300.0
+kohlrabi,14.0,,300.0
+carrot,28.0,7.0,300.0
+baby carrot,21.0,,300.0
+parsnip,21.0,7.0,300.0
+turnip,14.0,7.0,300.0
+rutabaga,21.0,14.0,300.0
+red radish,14.0,,300.0
+daikon radish,14.0,,300.0
+beetroot,21.0,7.0,300.0
+russet potato,,60.0,365.0
+red potato,,30.0,365.0
+yukon gold potato,,45.0,365.0
+sweet potato,,30.0,365.0
+yam,,30.0,365.0
+yellow onion,60.0,30.0,300.0
+red onion,60.0,30.0,300.0
+white onion,60.0,30.0,300.0
+sweet onion,30.0,20.0,300.0
+shallot,30.0,30.0,300.0
+scallion,7.0,,180.0
+leek,14.0,,300.0
+garlic bulb,,90.0,365.0
+ginger root,21.0,14.0,180.0
+turmeric root,21.0,14.0,180.0
+celery,14.0,,300.0
+asparagus,4.0,,240.0
+green beans,7.0,,240.0
+wax beans,7.0,,240.0
+snap peas,5.0,,240.0
+snow peas,5.0,,240.0
+green peas,5.0,,240.0
+corn on the cob,3.0,,240.0
+zucchini,5.0,,240.0
+yellow summer squash,5.0,,240.0
+butternut squash,,60.0,300.0
+acorn squash,,60.0,300.0
+spaghetti squash,,60.0,300.0
+pumpkin,,60.0,300.0
+green bell pepper,14.0,,240.0
+red bell pepper,14.0,,240.0
+yellow bell pepper,14.0,,240.0
+jalapeno pepper,14.0,,240.0
+poblano pepper,14.0,,240.0
+habanero pepper,14.0,,240.0
+serrano pepper,14.0,,240.0
+eggplant,7.0,,240.0
+cucumber,7.0,,
+english cucumber,7.0,,
+vine tomato,14.0,7.0,180.0
+roma tomato,14.0,7.0,180.0
+cherry tomato,7.0,5.0,180.0
+grape tomato,7.0,5.0,180.0
+heirloom tomato,7.0,4.0,180.0
+white button mushroom,7.0,,300.0
+cremini mushroom,7.0,,300.0
+portobello mushroom,7.0,,300.0
+shiitake mushroom,10.0,,300.0
+oyster mushroom,5.0,,300.0
+enoki mushroom,7.0,,300.0
+artichoke,5.0,,240.0
+fennel bulb,7.0,,240.0
+okra,3.0,,240.0
+rhubarb,7.0,,300.0
+fresh basil,7.0,3.0,180.0
+fresh parsley,10.0,,180.0
+fresh cilantro,7.0,,180.0
+fresh mint,7.0,,180.0
+fresh rosemary,14.0,,180.0
+fresh thyme,14.0,,180.0
+fresh oregano,14.0,,180.0
+fresh dill,7.0,,180.0
+fresh chives,7.0,,180.0
+whole milk,7.0,,90.0
+skim milk,7.0,,90.0
+low fat milk,7.0,,90.0
+buttermilk,14.0,,90.0
+heavy cream,10.0,,60.0
+whipping cream,10.0,,60.0
+half and half,7.0,,60.0
+sour cream,14.0,,
+cream cheese,14.0,,60.0
+ricotta cheese,7.0,,180.0
+cottage cheese,7.0,,
+plain greek yogurt,14.0,,60.0
+flavored yogurt,14.0,,60.0
+kefir,14.0,,60.0
+salted butter,30.0,,270.0
+unsalted butter,30.0,,180.0
+ghee,365.0,180.0,
+cheddar cheese block,180.0,,180.0
+shredded cheddar cheese,30.0,,180.0
+mozzarella block,21.0,,180.0
+fresh mozzarella ball,7.0,,180.0
+parmesan cheese wedge,300.0,30.0,180.0
+grated parmesan cheese,90.0,,180.0
+swiss cheese,30.0,,180.0
+provolone cheese,30.0,,180.0
+gouda cheese,60.0,,180.0
+brie cheese,14.0,,180.0
+camembert cheese,14.0,,180.0
+feta cheese in brine,30.0,,90.0
+goat cheese log,14.0,,90.0
+blue cheese,21.0,,180.0
+monterey jack cheese,30.0,,180.0
+pepper jack cheese,30.0,,180.0
+colby jack cheese,30.0,,180.0
+gruyere cheese,60.0,,180.0
+manchego cheese,60.0,,180.0
+havarti cheese,30.0,,180.0
+raw egg in shell,35.0,,365.0
+hard boiled egg,7.0,,
+liquid egg whites,7.0,,365.0
+opened almond milk,10.0,,
+opened oat milk,10.0,,
+opened soy milk,10.0,,
+opened coconut milk carton,10.0,,
+opened cashew milk,10.0,,
+vegan butter,30.0,,180.0
+vegan cheese slices,14.0,,90.0
+coconut yogurt,10.0,,60.0
+silken tofu,5.0,,150.0
+firm tofu,5.0,,150.0
+extra firm tofu,5.0,,150.0
+tempeh,10.0,,300.0
+seitan,10.0,,180.0
+raw chicken breast,2.0,,270.0
+raw chicken thighs,2.0,,270.0
+raw chicken wings,2.0,,270.0
+raw chicken drumsticks,2.0,,270.0
+raw ground chicken,2.0,,120.0
+raw whole chicken,2.0,,365.0
+cooked chicken breast,4.0,,120.0
+cooked chicken wings,4.0,,120.0
+cooked rotisserie chicken,4.0,,120.0
+raw turkey breast,2.0,,270.0
+raw ground turkey,2.0,,120.0
+raw whole turkey,2.0,,365.0
+cooked turkey,4.0,,120.0
+raw duck breast,2.0,,180.0
+raw whole duck,2.0,,180.0
+raw ground beef,2.0,,120.0
+raw ribeye steak,3.0,,180.0
+raw sirloin steak,3.0,,180.0
+raw beef roast,3.0,,365.0
+raw beef brisket,3.0,,365.0
+cooked beef steak,4.0,,90.0
+cooked ground beef,4.0,,90.0
+raw pork chop,3.0,,180.0
+raw pork tenderloin,3.0,,180.0
+raw pork shoulder,3.0,,180.0
+cooked pork chop,4.0,,90.0
+pork bacon,7.0,,30.0
+turkey bacon,7.0,,30.0
+raw pork sausage links,2.0,,60.0
+raw Italian sausage,2.0,,60.0
+cooked sausage,7.0,,60.0
+opened hot dogs,7.0,,60.0
+sliced bologna,7.0,,60.0
+sliced salami,14.0,,60.0
+sliced pepperoni,21.0,,60.0
+prosciutto,14.0,,30.0
+deli sliced ham,5.0,,60.0
+deli sliced turkey,5.0,,60.0
+deli sliced roast beef,5.0,,60.0
+raw lamb chops,3.0,,180.0
+raw leg of lamb,3.0,,270.0
+raw veal cutlet,3.0,,180.0
+raw salmon fillet,2.0,,90.0
+raw tuna steak,2.0,,90.0
+raw cod fillet,2.0,,180.0
+raw halibut fillet,2.0,,180.0
+raw tilapia fillet,2.0,,180.0
+raw trout,2.0,,180.0
+raw mahi mahi,2.0,,180.0
+raw sea bass,2.0,,180.0
+raw red snapper,2.0,,180.0
+raw swordfish,2.0,,180.0
+cooked salmon,3.0,,60.0
+cooked tuna,3.0,,60.0
+cooked white fish,3.0,,60.0
+raw shrimp,2.0,,180.0
+cooked shrimp,3.0,,90.0
+raw sea scallops,2.0,,90.0
+fresh crab meat,2.0,,90.0
+cooked crab legs,4.0,,90.0
+live lobster,1.0,,
+cooked lobster,3.0,,60.0
+shucked raw oysters,2.0,,90.0
+raw clams in shell,2.0,,
+raw mussels in shell,2.0,,
+raw squid rings,2.0,,90.0
+raw octopus,2.0,,90.0
+opened smoked salmon pack,14.0,,60.0
+white sandwich bread,14.0,7.0,90.0
+whole wheat bread,14.0,7.0,90.0
+sourdough bread loaf,14.0,5.0,90.0
+rye bread,14.0,7.0,90.0
+pumpernickel bread,14.0,7.0,90.0
+multigrain bread,14.0,7.0,90.0
+french baguette,7.0,2.0,90.0
+ciabatta loaf,7.0,3.0,90.0
+brioche bread,10.0,5.0,90.0
+plain bagels,14.0,5.0,90.0
+english muffins,14.0,5.0,90.0
+pita bread pockets,14.0,5.0,90.0
+naan bread,10.0,4.0,90.0
+flour tortillas,30.0,14.0,90.0
+corn tortillas,30.0,14.0,90.0
+butter croissants,7.0,3.0,60.0
+blueberry muffins,7.0,3.0,60.0
+chocolate muffins,7.0,3.0,60.0
+glazed donuts,5.0,2.0,30.0
+cinnamon rolls,7.0,3.0,60.0
+hamburger buns,14.0,7.0,90.0
+hot dog buns,14.0,7.0,90.0
+dinner rolls,14.0,5.0,90.0
+dry white rice,,1825.0,
+dry brown rice,180.0,180.0,365.0
+dry jasmine rice,,1825.0,
+dry basmati rice,,1825.0,
+dry wild rice,,730.0,
+cooked white rice,4.0,,180.0
+cooked brown rice,4.0,,180.0
+dry semolina pasta,,730.0,
+dry egg noodles,,730.0,
+cooked pasta,4.0,,60.0
+dry couscous,,730.0,
+dry quinoa,,730.0,
+cooked quinoa,4.0,,180.0
+dry bulgur wheat,,365.0,
+dry farro,,365.0,
+dry pearl barley,,365.0,
+rolled oats,,365.0,
+steel cut oats,,365.0,
+dry black beans,,1095.0,
+dry pinto beans,,1095.0,
+dry red kidney beans,,1095.0,
+dry chickpeas,,1095.0,
+dry brown lentils,,1095.0,
+dry red lentils,,1095.0,
+dry green split peas,,1095.0,
+cooked black beans,4.0,,180.0
+cooked chickpeas,4.0,,180.0
+cooked lentils,4.0,,180.0
+opened canned black beans,4.0,,60.0
+opened canned pinto beans,4.0,,60.0
+opened canned chickpeas,4.0,,60.0
+opened canned sweet corn,4.0,,60.0
+opened canned green beans,4.0,,60.0
+opened canned diced tomatoes,4.0,,60.0
+opened canned tomato paste,7.0,,90.0
+opened canned tomato sauce,5.0,,90.0
+opened canned tuna,3.0,,
+opened canned salmon,3.0,,
+opened canned chicken,3.0,,
+opened canned sardines,2.0,,
+opened canned chicken soup,4.0,,
+opened canned tomato soup,4.0,,
+opened canned coconut milk,5.0,,30.0
+opened canned pumpkin puree,7.0,,90.0
+opened canned peach slices,4.0,,
+opened canned pineapple chunks,4.0,,
+opened ketchup bottle,180.0,365.0,
+opened yellow mustard,365.0,365.0,
+opened dijon mustard,365.0,365.0,
+opened mayonnaise jar,60.0,90.0,
+opened barbecue sauce,120.0,365.0,
+opened teriyaki sauce,365.0,365.0,
+opened soy sauce,730.0,1095.0,
+opened hoisin sauce,365.0,365.0,
+opened oyster sauce,180.0,,
+opened fish sauce,365.0,730.0,
+opened sriracha hot sauce,365.0,180.0,
+opened tabasco hot sauce,365.0,365.0,
+opened worcestershire sauce,365.0,730.0,
+opened marinara sauce jar,7.0,,90.0
+opened alfredo sauce jar,4.0,,60.0
+fresh basil pesto jar,7.0,,180.0
+opened salsa jar,14.0,,60.0
+guacamole,2.0,,90.0
+hummus,7.0,,90.0
+ranch dressing bottle,60.0,,
+italian dressing bottle,90.0,,
+caesar dressing bottle,60.0,,
+thousand island dressing,60.0,,
+blue cheese dressing,60.0,,
+balsamic vinaigrette bottle,90.0,,
+extra virgin olive oil,,365.0,
+vegetable oil,,365.0,
+canola oil,,365.0,
+coconut oil,,730.0,
+avocado oil,,270.0,
+toasted sesame oil,180.0,90.0,
+peanut oil,,365.0,
+sunflower oil,,365.0,
+distilled white vinegar,,1825.0,
+apple cider vinegar,,1825.0,
+red wine vinegar,,1095.0,
+white wine vinegar,,1095.0,
+balsamic vinegar,,1095.0,
+rice vinegar,,1095.0,
+all purpose flour,365.0,240.0,730.0
+whole wheat flour,180.0,90.0,365.0
+bread flour,365.0,240.0,730.0
+cake flour,365.0,240.0,730.0
+almond flour,180.0,90.0,365.0
+coconut flour,365.0,180.0,730.0
+cornstarch,,730.0,
+baking powder,,365.0,
+baking soda,,730.0,
+active dry yeast,180.0,90.0,365.0
+instant yeast packet,180.0,90.0,365.0
+granulated white sugar,,1825.0,
+brown sugar,,730.0,
+powdered sugar,,730.0,
+pure honey,,1825.0,
+pure maple syrup,365.0,365.0,
+agave nectar,,730.0,
+blackstrap molasses,,730.0,
+unsweetened cocoa powder,,730.0,
+dark chocolate morsels,,365.0,365.0
+milk chocolate morsels,,240.0,365.0
+white chocolate morsels,,180.0,365.0
+pure vanilla extract,,1825.0,
+almond extract,,1825.0,
+raw almonds,180.0,90.0,365.0
+roasted salted almonds,180.0,90.0,365.0
+raw walnut halves,180.0,90.0,365.0
+raw pecan halves,180.0,90.0,365.0
+raw cashews,180.0,90.0,365.0
+roasted cashews,180.0,90.0,365.0
+shelled pistachios,180.0,90.0,365.0
+raw macadamia nuts,180.0,90.0,365.0
+brazil nuts,180.0,90.0,365.0
+hazelnuts,180.0,90.0,365.0
+pine nuts,180.0,60.0,365.0
+roasted peanuts,180.0,90.0,365.0
+chia seeds,365.0,365.0,730.0
+whole flax seeds,180.0,180.0,365.0
+ground flaxseed meal,180.0,30.0,365.0
+hemp seeds,365.0,90.0,365.0
+sunflower seeds,180.0,90.0,365.0
+pumpkin seeds pepitas,180.0,90.0,365.0
+white sesame seeds,180.0,180.0,365.0
+commercial creamy peanut butter,180.0,90.0,
+commercial crunchy peanut butter,180.0,90.0,
+natural peanut butter jar,90.0,30.0,
+almond butter jar,180.0,90.0,
+cashew butter jar,180.0,90.0,
+sunflower seed butter,180.0,90.0,
+tahini paste,180.0,180.0,
+salted potato chips,,30.0,
+tortilla chips,,30.0,
+corn chips,,30.0,
+salted pretzels,,60.0,
+saltine crackers,,90.0,
+butter round crackers,,90.0,
+graham crackers,,60.0,
+unpopped popcorn kernels,,365.0,
+popped popcorn bag,,14.0,
+plain rice cakes,,60.0,
+fruit and nut trail mix,180.0,90.0,365.0
+sweetened dried cranberries,365.0,180.0,365.0
+seedless raisins,365.0,180.0,365.0
+dried mission figs,365.0,180.0,365.0
+dried apricots,365.0,180.0,365.0
+pitted dried dates,365.0,180.0,365.0
+dried mango slices,365.0,180.0,365.0
+beef jerky,,365.0,
+turkey jerky,,365.0,
+dark chocolate bar,,365.0,365.0
+milk chocolate bar,,180.0,365.0
+gummy bear candies,,180.0,
+marshmallows,,60.0,
+hard fruit candies,,365.0,
+chocolate chip cookies,,21.0,180.0
+oatmeal raisin cookies,,21.0,180.0
+chocolate fudge brownies,7.0,5.0,180.0
+whole coffee beans,,30.0,180.0
+ground coffee bag,,14.0,90.0
+instant coffee powder,,365.0,
+black tea bags,,730.0,
+green tea bags,,730.0,
+herbal tea bags,,730.0,
+opened orange juice carton,7.0,,240.0
+opened apple juice bottle,10.0,,240.0
+opened cranberry juice bottle,21.0,,240.0
+fresh lemonade,7.0,,180.0
+opened tomato juice,7.0,,180.0
+opened coconut water,3.0,,
+frozen cheese pizza,,,180.0
+frozen pepperoni pizza,,,180.0
+frozen bean burritos,,,90.0
+frozen french fries,,,365.0
+frozen tater tots,,,365.0
+frozen onion rings,,,365.0
+frozen waffles,,,90.0
+frozen pancakes,,,90.0
+frozen pork dumplings,,,180.0
+frozen vegetable spring rolls,,,180.0
+frozen fish sticks,,,180.0
+frozen chicken nuggets,,,180.0
+frozen chicken tenders,,,180.0
+frozen beef meatballs,,,120.0
+frozen meat lasagna,,,90.0
+vanilla ice cream tub,,,60.0
+chocolate ice cream tub,,,60.0
+fruit sorbet tub,,,60.0
+fruit popsicles,,,180.0
+frozen shelled edamame,,,365.0
